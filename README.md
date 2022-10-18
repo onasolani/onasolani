@@ -1,4 +1,4 @@
-Hi! 👋 I'm Ona, a Barcelona-based UX/UI Engineer, who loves design and development👩🏻‍💻. I enjoy designing interfaces & creating memorable experiences, bring sharp analytical skills and a commitment to add new values through creative-driven solutions 💭. 
+Hi! I'm Ona, a Barcelona-based Product Designer who designs cross-functional and human-centered work, adding new values through creative-data-driven solutions.
 
 You can find my portfolio [**here**](https://onasolani.github.io)
 
